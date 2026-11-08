@@ -1,0 +1,6 @@
+{
+  "name": "StayAwake",
+  "description": "Mantén cualquier aplicación activa en segundo plano y con la pantalla bloqueada, con gestión intuitiva de excepciones de energía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

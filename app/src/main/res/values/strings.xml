@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StayAwake</string>
+    <string name="notification_channel_name">Servicio Guardián StayAwake</string>
+    <string name="notification_channel_desc">Mantiene el servicio activo y vigila la aplicación objetivo</string>
+
+</resources>
